@@ -71,8 +71,12 @@ lenguaje, y automatizo trabajo con agentes de IA.
 ### 📊 Estadísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NemiasVasquez&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=86A8E7&icon_color=91EAE4" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NemiasVasquez&layout=compact&hide_border=true&theme=tokyonight&title_color=86A8E7&langs_count=8" alt="top langs"/>
+  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NemiasVasquez&theme=tokyonight" alt="stats"/>
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NemiasVasquez&theme=tokyonight" alt="top langs"/>
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NemiasVasquez&theme=tokyonight" alt="most commit langs"/>
 </div>
 
 <div align="center">
