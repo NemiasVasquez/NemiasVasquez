@@ -1,6 +1,6 @@
 <!-- ======================= BANNER ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Nemias%20David%20Vasquez&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Machine%20Learning%20%26%20NLP&descSize=16&descAlignY=58" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Nemias%20David%20Vasquez&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20ML%2FNLP&descSize=16&descAlignY=58" width="100%" alt="banner"/>
 </div>
 
 <!-- ======================= TYPING ======================= -->
